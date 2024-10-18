@@ -1,4 +1,4 @@
-# Project 1 Redactions Data
+# Project 1 Redaction Data
 
 This repository contains test files you can use for your Project 1 submission.
 
@@ -27,6 +27,8 @@ An example pair for the `concept` flag is given in the table below.
 
 
 **To submit**, make a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to add your examples files.
+
+If you do not like how someone formatted a file or disagree, please open and *Issue*.
 
 ---
 Back to [Project 1](https://ufdatastudio.com/cis6930fa24/assignments/project1)
