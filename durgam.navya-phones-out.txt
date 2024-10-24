@@ -63,7 +63,7 @@ app, and the server is being moved to Houston.
 Oracle does not function in a NAT environment, so network changes must be 
 made to accomodate the move.
 Backout: Put original ACL back in place
-Contact(s):  Dennis McGough    ████████████  
+Contact(s):  Dennis McGough    ████████████
 
 SITARA:  No Scheduled Outages.
 
@@ -104,4 +104,4 @@ RUS/GOPS/GeoTools/APRS   ██████████████  [Pager]
 OSS/UA4/TARP    ██████████████  [Pager]
 CPR      ██████████████  [Pager]
 EDI Support      ██████████████  [Pager]
-EES Help Desk     ██████████████ OR ██████████████
+EES Help Desk     █████████████ OR █████████████
