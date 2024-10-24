@@ -2,7 +2,6 @@ Message-ID: <14087720.1075840325884.JavaMail.evans@thyme>
 Date: Tue, 13 Mar 2001 14:27:00 -0800 (PST)
 From: eric.bass@enron.com
 To: chad.landry@enron.com
-Address: ████████████████████████████████████████████████
 Subject: Re: NCAA Pool
 Mime-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
@@ -39,7 +38,7 @@ To:	Chad Landry/HOU/ECT@ECT
 cc:	 
 Subject:	NCAA Pool
 
-You running the show this year???
+You running the show this year??? If you are, will it be here: (Address: ████████████████████████████████████████████████)? 
 
 
 
