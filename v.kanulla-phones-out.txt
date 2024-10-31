@@ -1,0 +1,29 @@
+Message-ID: <34827149.1075863952083.JavaMail.evans@thyme>
+Date: Thursday, 12 March 2020 14:30:00 -0500 (EST)
+From: sarah.johnson@enron.com
+To: michael.jones@enron.com, emily.watson@enron.com
+Subject: Birthday Party Plans
+
+Hello Michael and Emily,
+
+I'm planning a birthday party for my daughter, and I'd love for you and your kids to join us. It’ll be on April 9th, 2023, starting at 2 PM, at our home: 123 Maple Avenue, Springfield, IL 62704. There will be games and activities for the kids, including a magician and a bouncy castle.
+
+Please let me know if you’re bringing any of your kids so we can prepare enough food and drinks. If you need directions, feel free to call me at ████████████ or my husband, James, at ████████████.
+
+Best,
+Sarah Johnson
+
+---
+
+Forwarded Message:
+
+Date: 4/9/2021
+From: emily.watson@enron.com
+To: sarah.johnson@enron.com
+
+Hi Sarah,
+
+Thanks for the invite! I'll bring my two boys, Lucas and Ethan. They’re very excited about the party, especially the bouncy castle. Just to confirm, it's at 123 Maple Avenue, Springfield, right? Also, should I bring anything?
+
+Best,
+Emily
